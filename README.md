@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Sou Enzo Ferreira<br>💻 Desenvolvedor Full-Stack<br>🐍 Python • ⚡ JS • ☕ Java<br>🎯 Em constante evolução, criando projetos sólidos e eficientes
+👋 Olá! Sou Enzo Ferreira<br>💻 Engenheiro de software<br>🐍 Python • ⚡ JS • ☕ Java<br>🎯 Em constante evolução, criando projetos sólidos e eficientes
 
 
 ## 🌐 Socials:
